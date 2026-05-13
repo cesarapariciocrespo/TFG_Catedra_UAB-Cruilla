@@ -5,9 +5,9 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante la Set
 # Actuaciones en el Teatre de la UAB
 <div align="center">
 
-<img src="Actuaciones/PartituresHistoriques.jpeg" alt="Concierto de Partituras Históricas e IA" width="45%">
+<img src="Actuaciones/PartituresHistoriques.jpeg" alt="Concierto de Partituras Históricas e IA" width="50%">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="Actuaciones/PartituresHistoriques2.jpg" alt="Detalle del concierto de Partituras Históricas e IA" width="45%">
+<img src="Actuaciones/PartituresHistoriques2.jpg" alt="Detalle del concierto de Partituras Históricas e IA" width="50%">
 <br>
 <em>Concierto de Partituras Históricas e IA.</em>
 
@@ -17,6 +17,7 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante la Set
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="Actuaciones/Candela2.jpeg" alt="Detalle de la performance Candela" width="45%">
 &nbsp;&nbsp;&nbsp;&nbsp;
+<br>
 <img src="Actuaciones/Candela3.jpeg" alt="Escena de la performance Candela" width="45%">
 <br>
 <em>Performance Candela, basada en la interacción entre cuerpo, sonido, iluminación e inteligencia artificial.</em>
@@ -38,6 +39,7 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante la Set
 <em>Performance Beyond Collapse, espectáculo de música electrónica, visuales generados mediante IA e interacción con el público.</em>
 
 </div>
+<br><br><br><br>
 
 # Prototipos de la Plaça Cívica
 <div align="center">
