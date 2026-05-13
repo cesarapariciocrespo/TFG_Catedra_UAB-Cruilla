@@ -16,30 +16,23 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante el Fes
 <em>Ejemplo de escenario del festival.</em>
 <br><br><br>
 
-<img src="Festival/Grafiti.jpeg" alt="Intervención gráfica en el Festival Cruïlla" width="750">
+<img src="Festival/Grafiti.jpeg" alt="Intervención gráfica en el Festival Cruïlla" width="350">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Festival/Muro_grafitis.jpeg" alt="Muro de grafitis del Festival Cruïlla" width="350">
 <br>
-<em>Ejemplo de la estética de grafiti del festival.</em>
+<em>Ejemplos de la personalidad del festival entorno al grafiti.</em>
 <br><br><br>
 
-<img src="Festival/Muro_grafitis.jpeg" alt="Muro de grafitis del Festival Cruïlla" width="750">
+<img src="Festival/Restauracion_proximidad.jpeg" alt="Zona de restauración de proximidad en el Festival Cruïlla" width="350">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Festival/Sostenibilidad_festival.jpeg" alt="Elementos vinculados a la sostenibilidad del Festival Cruïlla" width="350">
 <br>
-<em>Muro de grafitis en el recinto del Festival Cruïlla.</em>
-<br><br><br>
-
-<img src="Festival/Restauracion_proximidad.jpeg" alt="Zona de restauración de proximidad en el Festival Cruïlla" width="750">
-<br>
-<em>Ejemplo de restauración de proximidad promovida por el Festival Cruïlla.</em>
-<br><br><br>
-
-<img src="Festival/Sostenibilidad_festival.jpeg" alt="Elementos vinculados a la sostenibilidad del Festival Cruïlla" width="750">
-<br>
-<em>Elementos vinculados a la sostenibilidad promovidos por el festival.</em>
+<em>Ejemplo la sensibilidad del festival a través de la restauración de proximidad y las soluciones en sostenibilidad.</em>
 </div>
 <br><br><br><br><br>
 
 
 # Prototipos
-
 <div align="center">
 <img src="Prototipos/CVC_Cantante.jpeg" alt="Resultado del prototipo del CVC en formato cantante" width="400">
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -59,13 +52,13 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante el Fes
 <em>Ejemplos de resultados generados por el prototipo de la UAB, combinando avatar personalizado y mascota asociada a las preferencias del participante.</em>
 <br><br><br><br>
 
-<img src="Prototipos/Preferencias 1.jpeg" alt="Pantalla de preferencias 1 del prototipo de la UAB" height="270">
+<img src="Prototipos/Preferencias 1.jpeg" alt="Pantalla de preferencias 1 del prototipo de la UAB" height="250">
 &nbsp;&nbsp;
-<img src="Prototipos/Preferencias 2.jpeg" alt="Pantalla de preferencias 2 del prototipo de la UAB" height="270">
+<img src="Prototipos/Preferencias 2.jpeg" alt="Pantalla de preferencias 2 del prototipo de la UAB" height="250">
 &nbsp;&nbsp;
-<img src="Prototipos/Preferencias 3.jpeg" alt="Pantalla de preferencias 3 del prototipo de la UAB" height="270">
+<img src="Prototipos/Preferencias 3.jpeg" alt="Pantalla de preferencias 3 del prototipo de la UAB" height="250">
 &nbsp;&nbsp;
-<img src="Prototipos/Preferencias 4.jpeg" alt="Pantalla de preferencias 4 del prototipo de la UAB" height="270">
+<img src="Prototipos/Preferencias 4.jpeg" alt="Pantalla de preferencias 4 del prototipo de la UAB" height="250">
 <br>
 <em>Pantallas de selección de preferencias musicales y personales utilizadas en el prototipo de la UAB.</em>
 <br><br><br><br>
