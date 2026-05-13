@@ -11,17 +11,17 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante la Set
 <br>
 <em>Concierto de Partituras Históricas e IA.</em>
 
-<br><br><br>
+<br><br>
 
 <img src="Actuaciones/Candela.jpeg" alt="Performance Candela" width="45%">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="Actuaciones/Candela2.jpeg" alt="Detalle de la performance Candela" width="45%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="Actuaciones/Candela3.jpeg" alt="Escena de la performance Candela" width="45%">
 <br>
 <em>Performance Candela, basada en la interacción entre cuerpo, sonido, iluminación e inteligencia artificial.</em>
 
-<br><br><br>
+<br><br>
 
 <img src="Actuaciones/GhostDrums.jpg" alt="Performance Ghost Drums" width="45%">
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,7 +31,7 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante la Set
 <br>
 <em>Performances de Ghost Drums y ImprovIA en el marco del proyecto Harmon.IA, y performaforum posterior.</em>
 
-<br><br><br>
+<br><br>
 
 <img src="Actuaciones/BeyondCollapse.jpeg" alt="Performance Beyond Collapse" width="500">
 <br>
@@ -46,19 +46,19 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante la Set
 <br>
 <em>Prototipo Lopako presentado en la Plaza Cívica durante la Setmana de la Innovació.</em>
 
-<br><br><br>
+<br><br>
 
 <img src="Prototipos/Robocat.jpeg" alt="Prototipo Robocat" width="450">
 <br>
 <em>Prototipo Robocat presentado como demostrador tecnológico en la Plaza Cívica.</em>
 
-<br><br><br>
+<br><br>
 
 <img src="Prototipos/Visualitzador3d.jpeg" alt="Visualizador interactivo 3D" width="350">
 <br>
 <em>Visualizador interactivo 3D aplicado a la exploración de objetos tridimensionales.</em>
 
-<br><br><br>
+<br><br>
 
 <img src="Prototipos/Comic.jpeg" alt="Prototipo de narrativa visual con IA generativa" width="45%">
 &nbsp;&nbsp;&nbsp;&nbsp;
