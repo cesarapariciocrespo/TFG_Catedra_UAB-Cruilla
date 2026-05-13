@@ -5,9 +5,9 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante la Set
 # Actuaciones en el Teatre de la UAB
 <div align="center">
 
-<img src="Actuaciones/PartituresHistoriques.jpeg" alt="Concierto de Partituras Históricas e IA" width="50%">
+<img src="Actuaciones/PartituresHistoriques.jpeg" alt="Concierto de Partituras Históricas e IA" width="45%">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="Actuaciones/PartituresHistoriques2.jpg" alt="Detalle del concierto de Partituras Históricas e IA" width="50%">
+<img src="Actuaciones/PartituresHistoriques2.jpg" alt="Detalle del concierto de Partituras Históricas e IA" width="45%">
 <br>
 <em>Concierto de Partituras Históricas e IA.</em>
 
@@ -16,8 +16,7 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante la Set
 <img src="Actuaciones/Candela.jpeg" alt="Performance Candela" width="45%">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="Actuaciones/Candela2.jpeg" alt="Detalle de la performance Candela" width="45%">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 <img src="Actuaciones/Candela3.jpeg" alt="Escena de la performance Candela" width="45%">
 <br>
 <em>Performance Candela, basada en la interacción entre cuerpo, sonido, iluminación e inteligencia artificial.</em>
