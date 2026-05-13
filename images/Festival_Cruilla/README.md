@@ -11,7 +11,7 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante el Fes
 <em>Buzz de la Cátedra UAB-Cruïlla en el Festival Cruïlla.</em>
 <br><br><br>
 
-<img src="Festival/Concierto.jpeg" alt="Concierto en el Festival Cruïlla" width="750">
+<img src="Festival/Concierto.jpeg" alt="Concierto en el Festival Cruïlla" width="650">
 <br>
 <em>Ejemplo de escenario del festival.</em>
 <br><br><br>
