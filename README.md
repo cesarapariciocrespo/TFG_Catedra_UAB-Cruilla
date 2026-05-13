@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/portada-cruilla.jpg" alt="Portada del proyecto" width="800">
+  <img src="assets/portada-cruilla.jpeg" alt="Portada del proyecto" width="800">
 </p>
 
 # Cátedra UAB-Cruïlla: espacios de experimentación e innovación en eventos públicos
