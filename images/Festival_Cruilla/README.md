@@ -4,32 +4,32 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante el Fes
 
 #Festival Cruïlla
 <figure align="center">
-  <img src="images/Festival_Cruilla/Festival/Buzz_dia.jpeg" alt="Buzz de la Cátedra UAB-Cruïlla durante el día" width="600">
+  <img src="Festival/Buzz_dia.jpeg" alt="Buzz de la Cátedra UAB-Cruïlla durante el día" width="600">
   <figcaption><em>Buzz de la Cátedra UAB-Cruïlla durante el día.</em></figcaption>
 </figure>
 
 <figure align="center">
-  <img src="images/Festival_Cruilla/Festival/Buzz_noche.jpeg" alt="Buzz de la Cátedra UAB-Cruïlla durante la noche" width="600">
+  <img src="Festival/Buzz_noche.jpeg" alt="Buzz de la Cátedra UAB-Cruïlla durante la noche" width="600">
   <figcaption><em>Buzz de la Cátedra UAB-Cruïlla durante la noche.</em></figcaption>
 </figure>
 
 <figure align="center">
-  <img src="images/Festival_Cruilla/Festival/Concierto.jpeg" alt="Concierto en el Festival Cruïlla" width="600">
+  <img src="Festival/Concierto.jpeg" alt="Concierto en el Festival Cruïlla" width="600">
   <figcaption><em>Ejemplo de escenario del festival.</em></figcaption>
 </figure>
 
 <figure align="center">
-  <img src="images/Festival_Cruilla/Festival/Grafiti.jpeg" alt="Grafiti del Festival Cruïlla" width="600">
+  <img src="Festival/Grafiti.jpeg" alt="Grafiti del Festival Cruïlla" width="600">
   <figcaption><em>Estética de grafitis observada en el Festival Cruïlla.</em></figcaption>
 </figure>
 
 <figure align="center">
-  <img src="images/Festival_Cruilla/Festival/Muro_grafitis.jpeg" alt="Muro de grafitis del Festival Cruïlla" width="600">
+  <img src="Festival/Muro_grafitis.jpeg" alt="Muro de grafitis del Festival Cruïlla" width="600">
   <figcaption><em>Muro de grafitis en el recinto del festival.</em></figcaption>
 </figure>
 
 <figure align="center">
-  <img src="images/Festival_Cruilla/Festival/Restauracion_proximidad.jpeg" alt="Zona de restauración de proximidad en el Festival Cruïlla" width="600">
+  <img src="Festival/Restauracion_proximidad.jpeg" alt="Zona de restauración de proximidad en el Festival Cruïlla" width="600">
   <figcaption><em>Ejemplo de comercio de proximidad que apolla el festival.</em></figcaption>
 </figure>
 
