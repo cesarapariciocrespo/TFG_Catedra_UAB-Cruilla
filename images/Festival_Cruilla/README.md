@@ -16,9 +16,9 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante el Fes
 <em>Ejemplo de escenario del festival.</em>
 <br><br><br>
 
-<img src="Festival/Grafiti.jpeg" alt="Intervención gráfica en el Festival Cruïlla" width="350">
+<img src="Festival/Grafiti.jpeg" alt="Intervención gráfica en el Festival Cruïlla" height="300">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="Festival/Muro_grafitis.jpeg" alt="Muro de grafitis del Festival Cruïlla" width="350">
+<img src="Festival/Muro_grafitis.jpeg" alt="Muro de grafitis del Festival Cruïlla" height="300">
 <br>
 <em>Ejemplos de la personalidad del festival entorno al grafiti.</em>
 <br><br><br>
