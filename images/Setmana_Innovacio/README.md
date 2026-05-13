@@ -1,0 +1,75 @@
+# Documentación gráfica de la Setmana de la Innovació
+
+Esta carpeta contiene fotografías del trabajo de campo realizado durante la Setmana de la Innovació de la UAB, tanto de los conciertos realizados en el Teatre de la UAB como de algunos de los prototipos situados en la Plaça Cívica.
+
+# Actuaciones en el Teatre de la UAB
+<div align="center">
+<img src="" alt="Buzz de la Cátedra UAB-Cruïlla durante el día" width="45%">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Festival/Buzz_noche.jpeg" alt="Buzz de la Cátedra UAB-Cruïlla durante la noche" width="45%">
+<br>
+<em>Buzz de la Cátedra UAB-Cruïlla en el Festival Cruïlla.</em>
+<br><br><br>
+
+<img src="Festival/Concierto.jpeg" alt="Concierto en el Festival Cruïlla" width="650">
+<br>
+<em>Ejemplo de escenario del festival.</em>
+<br><br><br>
+
+<img src="Festival/Grafiti.jpeg" alt="Intervención gráfica en el Festival Cruïlla" height="300">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Festival/Muro_grafitis.jpeg" alt="Muro de grafitis del Festival Cruïlla" height="300">
+<br>
+<em>Ejemplos de la personalidad del festival entorno al grafiti.</em>
+<br><br><br>
+
+<img src="Festival/Restauracion_proximidad.jpeg" alt="Zona de restauración de proximidad en el Festival Cruïlla" height="300">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Festival/Sostenibilidad_festival.jpeg" alt="Elementos vinculados a la sostenibilidad del Festival Cruïlla" height="300">
+<br>
+<em>Ejemplo la sensibilidad del festival a través de la restauración de proximidad y las soluciones en sostenibilidad.</em>
+</div>
+<br><br><br><br><br>
+
+
+# Prototipos
+<div align="center">
+<img src="Prototipos/CVC_Cantante.jpeg" alt="Resultado del prototipo del CVC en formato cantante" width="400">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Prototipos/CVC_Guitarrista.jpeg" alt="Resultado del prototipo del CVC en formato guitarrista" width="400">
+<br>
+<em>Ejemplos de resultados generados por el prototipo del CVC, transformando a los participantes en estrellas del Festival Cruïlla.</em>
+<br><br><br><br>
+
+<img src="Prototipos/UAB_1.jpeg" alt="Resultado 1 del prototipo de la UAB" width="45%">
+&nbsp;&nbsp;
+<img src="Prototipos/UAB_2.jpeg" alt="Resultado 2 del prototipo de la UAB" width="45%">
+<br><br>
+<img src="Prototipos/UAB_3.jpeg" alt="Resultado 3 del prototipo de la UAB" width="45%">
+&nbsp;&nbsp;
+<img src="Prototipos/UAB_4.jpeg" alt="Resultado 4 del prototipo de la UAB" width="45%">
+<br>
+<em>Ejemplos de resultados generados por el prototipo de la UAB, combinando avatar personalizado y mascota asociada a las preferencias del participante.</em>
+<br><br><br><br>
+
+<img src="Prototipos/Preferencias 1.jpeg" alt="Pantalla de preferencias 1 del prototipo de la UAB" height="250">
+&nbsp;&nbsp;
+<img src="Prototipos/Preferencias 2.jpeg" alt="Pantalla de preferencias 2 del prototipo de la UAB" height="250">
+&nbsp;&nbsp;
+<img src="Prototipos/Preferencias 3.jpeg" alt="Pantalla de preferencias 3 del prototipo de la UAB" height="250">
+&nbsp;&nbsp;
+<img src="Prototipos/Preferencias 4.jpeg" alt="Pantalla de preferencias 4 del prototipo de la UAB" height="250">
+<br>
+<em>Pantallas de selección de preferencias musicales y personales utilizadas en el prototipo de la UAB.</em>
+<br><br><br><br>
+
+<img src="Prototipos/Funcionamiento_UAB.jpeg" alt="Funcionamiento del prototipo de la UAB" width="270">
+&nbsp;&nbsp;
+<img src="Prototipos/Propaganda UAB.jpeg" alt="Propaganda del prototipo de la UAB" width="270">
+&nbsp;&nbsp;
+<img src="Prototipos/Slogan UAB.jpeg" alt="Slogan del prototipo de la UAB" width="270">
+&nbsp;&nbsp;
+<br>
+<em>Material de explicación y difusión del prototipo de la UAB.</em>
+
+</div>
