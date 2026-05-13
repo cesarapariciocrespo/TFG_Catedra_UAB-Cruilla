@@ -73,19 +73,19 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante el Fes
 <em>Pantallas de selección de preferencias musicales y personales utilizadas en el prototipo de la UAB.</em>
 <br><br><br><br>
 
-<img src="Prototipos/Funcionamiento_UAB.jpeg" alt="Funcionamiento del prototipo de la UAB" width="750">
+<img src="Prototipos/Funcionamiento_UAB.jpeg" alt="Funcionamiento del prototipo de la UAB" width="550">
 <br>
 <em>Esquema de funcionamiento del prototipo desarrollado por los estudiantes de IA de la UAB.</em>
 
 <br><br><br><br>
 
-<img src="Prototipos/Propaganda_UAB.jpeg" alt="Propaganda del prototipo de la UAB" width="750">
+<img src="Prototipos/Propaganda UAB.jpeg" alt="Propaganda del prototipo de la UAB" width="550">
 <br>
 <em>Material de difusión del prototipo de la UAB en el Festival Cruïlla.</em>
 
 <br><br><br><br>
 
-<img src="Prototipos/Slogan_UAB.jpeg" alt="Slogan del prototipo de la UAB" width="750">
+<img src="Prototipos/Slogan UAB.jpeg" alt="Slogan del prototipo de la UAB" width="550">
 <br>
 <em>Slogan asociado al prototipo de la UAB.</em>
 </div>
