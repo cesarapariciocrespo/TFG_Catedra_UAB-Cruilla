@@ -51,7 +51,7 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante el Fes
 <em>Ejemplos de resultados generados por el prototipo del CVC, transformando a los participantes en estrellas del Festival Cruïlla.</em>
 <br><br><br><br>
 
-<img src="Prototipos/UAB_1.jpeg" alt="Resultado 1 del prototipo de la UAB" height="260">
+<img src="Prototipos/UAB_1.jpeg" alt="Resultado 1 del prototipo de la UAB" height="240">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="Prototipos/UAB_2.jpeg" alt="Resultado 2 del prototipo de la UAB" height="260">
 <br><br>
@@ -62,7 +62,7 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante el Fes
 <em>Ejemplos de resultados generados por el prototipo de la UAB, combinando avatar personalizado y mascota asociada a las preferencias del participante.</em>
 <br><br><br><br>
 
-<img src="Prototipos/Preferencias 1.jpeg" alt="Pantalla de preferencias 1 del prototipo de la UAB" height="200">
+<img src="Prototipos/Preferencias 1.jpeg" alt="Pantalla de preferencias 1 del prototipo de la UAB" height="260">
 &nbsp;&nbsp;
 <img src="Prototipos/Preferencias 2.jpeg" alt="Pantalla de preferencias 2 del prototipo de la UAB" height="260">
 &nbsp;&nbsp;
@@ -74,18 +74,12 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante el Fes
 <br><br><br><br>
 
 <img src="Prototipos/Funcionamiento_UAB.jpeg" alt="Funcionamiento del prototipo de la UAB" width="300">
-<br>
-<em>Esquema de funcionamiento del prototipo desarrollado por los estudiantes de IA de la UAB.</em>
-
-<br><br><br><br>
-
+&nbsp;&nbsp;
 <img src="Prototipos/Propaganda UAB.jpeg" alt="Propaganda del prototipo de la UAB" width="300">
-<br>
-<em>Material de difusión del prototipo de la UAB en el Festival Cruïlla.</em>
-
-<br><br><br><br>
-
+&nbsp;&nbsp;
 <img src="Prototipos/Slogan UAB.jpeg" alt="Slogan del prototipo de la UAB" width="300">
+&nbsp;&nbsp;
 <br>
-<em>Slogan asociado al prototipo de la UAB.</em>
+<em>Material de explicación y difusión del prototipo de la UAB.</em>
+
 </div>
