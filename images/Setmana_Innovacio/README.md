@@ -4,72 +4,59 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante la Set
 
 # Actuaciones en el Teatre de la UAB
 <div align="center">
-<img src="" alt="Buzz de la Cátedra UAB-Cruïlla durante el día" width="45%">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="Festival/Buzz_noche.jpeg" alt="Buzz de la Cátedra UAB-Cruïlla durante la noche" width="45%">
+
+<img src="Actuaciones/PartituresHistoriques.jpeg" alt="Concierto de Partituras Históricas e IA" width="750">
 <br>
-<em>Buzz de la Cátedra UAB-Cruïlla en el Festival Cruïlla.</em>
+<img src="PartituresHistoriques2.jpg" alt="Detalle del concierto de Partituras Históricas e IA" width="750">
+<em>Concierto de Partituras Históricas e IA.</em>
+
 <br><br><br>
 
-<img src="Festival/Concierto.jpeg" alt="Concierto en el Festival Cruïlla" width="650">
+<img src="Candela.jpeg" alt="Performance Candela" width="750">
 <br>
-<em>Ejemplo de escenario del festival.</em>
+<img src="Candela2.jpeg" alt="Detalle de la performance Candela" width="750">
+<img src="Candela3.jpeg" alt="Escena de la performance Candela" width="750">
+<em>Performance Candela, basada en la interacción entre cuerpo, sonido, iluminación e inteligencia artificial.</em>
+
 <br><br><br>
 
-<img src="Festival/Grafiti.jpeg" alt="Intervención gráfica en el Festival Cruïlla" height="300">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="Festival/Muro_grafitis.jpeg" alt="Muro de grafitis del Festival Cruïlla" height="300">
+<img src="GhostDrums.jpg" alt="Performance Ghost Drums" width="750">
 <br>
-<em>Ejemplos de la personalidad del festival entorno al grafiti.</em>
+<img src="ImprovIA.jpeg" alt="Performance ImprovIA" width="750">
+<img src="Performaforum_HarmonIA.jpg" alt="Performaforum de Harmon.IA" width="750">
+<em>Performances de Ghost Drums y ImprovIA en el marco del proyecto Harmon.IA, y performaforum posterior.</em>
+
 <br><br><br>
 
-<img src="Festival/Restauracion_proximidad.jpeg" alt="Zona de restauración de proximidad en el Festival Cruïlla" height="300">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="Festival/Sostenibilidad_festival.jpeg" alt="Elementos vinculados a la sostenibilidad del Festival Cruïlla" height="300">
+<img src="BeyondCollapse.jpeg" alt="Performance Beyond Collapse" width="750">
 <br>
-<em>Ejemplo la sensibilidad del festival a través de la restauración de proximidad y las soluciones en sostenibilidad.</em>
+<em>Performance Beyond Collapse, espectáculo de música electrónica, visuales generados mediante IA e interacción con el público.</em>
+
 </div>
-<br><br><br><br><br>
 
-
-# Prototipos
-<div align="center">
-<img src="Prototipos/CVC_Cantante.jpeg" alt="Resultado del prototipo del CVC en formato cantante" width="400">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="Prototipos/CVC_Guitarrista.jpeg" alt="Resultado del prototipo del CVC en formato guitarrista" width="400">
+# Prototipos de la Plaça Cívica
+<div>
+<img src="Lopako.jpeg" alt="Prototipo Lopako" width="750">
 <br>
-<em>Ejemplos de resultados generados por el prototipo del CVC, transformando a los participantes en estrellas del Festival Cruïlla.</em>
-<br><br><br><br>
+<em>Prototipo Lopako presentado en la Plaza Cívica durante la Setmana de la Innovació.</em>
 
-<img src="Prototipos/UAB_1.jpeg" alt="Resultado 1 del prototipo de la UAB" width="45%">
-&nbsp;&nbsp;
-<img src="Prototipos/UAB_2.jpeg" alt="Resultado 2 del prototipo de la UAB" width="45%">
-<br><br>
-<img src="Prototipos/UAB_3.jpeg" alt="Resultado 3 del prototipo de la UAB" width="45%">
-&nbsp;&nbsp;
-<img src="Prototipos/UAB_4.jpeg" alt="Resultado 4 del prototipo de la UAB" width="45%">
-<br>
-<em>Ejemplos de resultados generados por el prototipo de la UAB, combinando avatar personalizado y mascota asociada a las preferencias del participante.</em>
-<br><br><br><br>
+<br><br><br>
 
-<img src="Prototipos/Preferencias 1.jpeg" alt="Pantalla de preferencias 1 del prototipo de la UAB" height="250">
-&nbsp;&nbsp;
-<img src="Prototipos/Preferencias 2.jpeg" alt="Pantalla de preferencias 2 del prototipo de la UAB" height="250">
-&nbsp;&nbsp;
-<img src="Prototipos/Preferencias 3.jpeg" alt="Pantalla de preferencias 3 del prototipo de la UAB" height="250">
-&nbsp;&nbsp;
-<img src="Prototipos/Preferencias 4.jpeg" alt="Pantalla de preferencias 4 del prototipo de la UAB" height="250">
+<img src="Robocat.jpeg" alt="Prototipo Robocat" width="750">
 <br>
-<em>Pantallas de selección de preferencias musicales y personales utilizadas en el prototipo de la UAB.</em>
-<br><br><br><br>
+<em>Prototipo Robocat presentado como demostrador tecnológico en la Plaza Cívica.</em>
 
-<img src="Prototipos/Funcionamiento_UAB.jpeg" alt="Funcionamiento del prototipo de la UAB" width="270">
-&nbsp;&nbsp;
-<img src="Prototipos/Propaganda UAB.jpeg" alt="Propaganda del prototipo de la UAB" width="270">
-&nbsp;&nbsp;
-<img src="Prototipos/Slogan UAB.jpeg" alt="Slogan del prototipo de la UAB" width="270">
-&nbsp;&nbsp;
+<br><br><br>
+
+<img src="Visualitzador3d.jpeg" alt="Visualizador interactivo 3D" width="750">
 <br>
-<em>Material de explicación y difusión del prototipo de la UAB.</em>
+<em>Visualizador interactivo 3D aplicado a la exploración de objetos tridimensionales.</em>
+
+<br><br><br>
+
+<img src="Comic.jpeg" alt="Prototipo de narrativa visual con IA generativa" width="750">
+<br>
+<img src="Comic2.jpg" alt="Resultado del prototipo de narrativa visual con IA generativa" width="750">
+<em>Prototipo de narrativa visual con IA generativa y resultado.</em>
 
 </div>
