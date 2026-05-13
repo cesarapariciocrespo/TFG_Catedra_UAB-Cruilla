@@ -4,14 +4,11 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante el Fes
 
 # Festival Cruïlla
 <div align="center">
-<img src="Festival/Buzz_dia.jpeg" alt="Buzz de la Cátedra UAB-Cruïlla durante el día" width="750">
+<img src="Festival/Buzz_dia.jpeg" alt="Buzz de la Cátedra UAB-Cruïlla durante el día" width="45%">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Festival/Buzz_noche.jpeg" alt="Buzz de la Cátedra UAB-Cruïlla durante la noche" width="45%">
 <br>
-<em>Buzz de la Cátedra UAB-Cruïlla durante el día.</em>
-<br><br><br>
-
-<img src="Festival/Buzz_noche.jpeg" alt="Buzz de la Cátedra UAB-Cruïlla durante la noche" width="750">
-<br>
-<em>Buzz de la Cátedra UAB-Cruïlla durante la noche.</em>
+<em>Buzz de la Cátedra UAB-Cruïlla en el Festival Cruïlla.</em>
 <br><br><br>
 
 <img src="Festival/Concierto.jpeg" alt="Concierto en el Festival Cruïlla" width="750">
