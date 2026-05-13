@@ -2,20 +2,18 @@
 
 Este repositorio reúne materiales complementarios del Trabajo de Fin de Grado **“Espacios de experimentación e innovación en eventos públicos: el caso de la Cátedra UAB-Cruïlla”**, realizado en el Grado en Gestión de Ciudades Inteligentes y Sostenibles de la Escola d’Enginyeria de la Universitat Autònoma de Barcelona.
 
-El trabajo analiza las acciones impulsadas en el marco de la **Cátedra UAB-Cruïlla**, una colaboración entre la Universitat Autònoma de Barcelona y el Festival Cruïlla orientada a explorar el papel de la inteligencia artificial en la creación artística, la innovación cultural y la transferencia de conocimiento. El estudio presta especial atención a dos contextos de experimentación: la **Setmana de la Innovació de la UAB**, entendida como un entorno de Living Lab universitario, y el **Festival Cruïlla**, interpretado como una ciudad efímera donde los prototipos tecnológicos entran en contacto con públicos amplios y diversos.
+El trabajo analiza las acciones impulsadas en el marco de la **Cátedra UAB-Cruïlla**, una colaboración entre la Universitat Autònoma de Barcelona y el Festival Cruïlla orientada a explorar el papel de la inteligencia artificial en la creación artística, la innovación cultural y la transferencia de conocimiento. El estudio presta especial atención a dos contextos de experimentación: la **Setmana de la Innovació de la UAB**, entendida como un entorno de Living Lab universitario, y el **Festival Cruïlla**, interpretado como una ciudad efímera donde los prototipos tecnológicos entran en contacto con públicos más amplios y heterogeneos.
 
 ## Objetivo del repositorio
 
-El objetivo de este repositorio es facilitar el acceso a materiales adicionales que complementan el trabajo académico, incluyendo anexos, documentación visual, transcripciones, cuestionarios y otros recursos relacionados con el proceso de investigación.
+El objetivo de este repositorio es facilitar el acceso a materiales adicionales que complementan el trabajo académico, incluyendo anexos, entrevistas, documentación visual, transcripciones, cuestionarios y otros recursos relacionados con el proceso de investigación, necesarios para la realización de este TFG.
 
 ## Contenido
 
-- `paper/`: versión final o versiones de consulta del TFG.
-- `annexes/`: anexos del trabajo, incluyendo materiales metodológicos y resultados complementarios.
-- `data/`: datos anonimizados derivados de cuestionarios o actividades de campo, cuando proceda.
+- `paper/`: versión final y documentos parciales extendidos.
+- `transcripts/`: documentos adicionales, incluyendo entrevistas a los principales stakeholders y transcripciones.
+- `data/`: explotación derivada de la encuesta durante las actividades de campo en el Festival Cruïlla.
 - `images/`: documentación visual de los espacios, prototipos y actividades analizadas.
-- `transcripts/`: transcripciones, discursos o materiales textuales utilizados durante la investigación.
-- `prototypes/`: documentación asociada a los prototipos desarrollados en el marco de la Cátedra.
 
 ## Resumen del trabajo
 
@@ -29,11 +27,3 @@ En la Setmana de la Innovació, el campus universitario actúa como un Living La
 Trabajo de Fin de Grado en Gestión de Ciudades Inteligentes y Sostenibles  
 Escola d’Enginyeria, Universitat Autònoma de Barcelona  
 Curso 2025/2026
-
-## Marco institucional
-
-Este trabajo se enmarca en la Cátedra UAB-Cruïlla, centrada en la investigación, experimentación y transferencia de conocimiento en torno a la inteligencia artificial, la música, las artes y los eventos culturales.
-
-## Uso de los materiales
-
-Los materiales incluidos en este repositorio tienen una finalidad académica, documental y divulgativa. Algunos contenidos pueden estar sujetos a derechos de autor, derechos de imagen o restricciones de uso derivadas del contexto de investigación. 
