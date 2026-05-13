@@ -23,9 +23,9 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante el Fes
 <em>Ejemplos de la personalidad del festival entorno al grafiti.</em>
 <br><br><br>
 
-<img src="Festival/Restauracion_proximidad.jpeg" alt="Zona de restauración de proximidad en el Festival Cruïlla" width="350">
+<img src="Festival/Restauracion_proximidad.jpeg" alt="Zona de restauración de proximidad en el Festival Cruïlla" heigth="350">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="Festival/Sostenibilidad_festival.jpeg" alt="Elementos vinculados a la sostenibilidad del Festival Cruïlla" width="350">
+<img src="Festival/Sostenibilidad_festival.jpeg" alt="Elementos vinculados a la sostenibilidad del Festival Cruïlla" heigth="350">
 <br>
 <em>Ejemplo la sensibilidad del festival a través de la restauración de proximidad y las soluciones en sostenibilidad.</em>
 </div>
