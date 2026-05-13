@@ -44,9 +44,9 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante el Fes
 # Prototipos
 
 <div align="center">
-<img src="Prototipos/CVC_Cantante.jpeg" alt="Resultado del prototipo del CVC en formato cantante" height="750">
+<img src="Prototipos/CVC_Cantante.jpeg" alt="Resultado del prototipo del CVC en formato cantante" height="500">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="Prototipos/CVC_Guitarrista.jpeg" alt="Resultado del prototipo del CVC en formato guitarrista" height="750">
+<img src="Prototipos/CVC_Guitarrista.jpeg" alt="Resultado del prototipo del CVC en formato guitarrista" height="500">
 <br>
 <em>Ejemplos de resultados generados por el prototipo del CVC, transformando a los participantes en estrellas del Festival Cruïlla.</em>
 <br><br><br><br>
@@ -62,22 +62,22 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante el Fes
 <em>Ejemplos de resultados generados por el prototipo de la UAB, combinando avatar personalizado y mascota asociada a las preferencias del participante.</em>
 <br><br><br><br>
 
-<img src="Prototipos/Preferencias 1.jpeg" alt="Pantalla de preferencias 1 del prototipo de la UAB" height="650">
+<img src="Prototipos/Preferencias 1.jpeg" alt="Pantalla de preferencias 1 del prototipo de la UAB" height="400">
 &nbsp;&nbsp;
-<img src="Prototipos/Preferencias 2.jpeg" alt="Pantalla de preferencias 2 del prototipo de la UAB" height="650">
+<img src="Prototipos/Preferencias 2.jpeg" alt="Pantalla de preferencias 2 del prototipo de la UAB" height="400">
 &nbsp;&nbsp;
-<img src="Prototipos/Preferencias 3.jpeg" alt="Pantalla de preferencias 3 del prototipo de la UAB" height="650">
+<img src="Prototipos/Preferencias 3.jpeg" alt="Pantalla de preferencias 3 del prototipo de la UAB" height="400">
 &nbsp;&nbsp;
-<img src="Prototipos/Preferencias 4.jpeg" alt="Pantalla de preferencias 4 del prototipo de la UAB" height="650">
+<img src="Prototipos/Preferencias 4.jpeg" alt="Pantalla de preferencias 4 del prototipo de la UAB" height="400">
 <br>
 <em>Pantallas de selección de preferencias musicales y personales utilizadas en el prototipo de la UAB.</em>
 <br><br><br><br>
 
-<img src="Prototipos/Funcionamiento_UAB.jpeg" alt="Funcionamiento del prototipo de la UAB" width="400">
+<img src="Prototipos/Funcionamiento_UAB.jpeg" alt="Funcionamiento del prototipo de la UAB" width="300">
 &nbsp;&nbsp;
-<img src="Prototipos/Propaganda UAB.jpeg" alt="Propaganda del prototipo de la UAB" width="400">
+<img src="Prototipos/Propaganda UAB.jpeg" alt="Propaganda del prototipo de la UAB" width="300">
 &nbsp;&nbsp;
-<img src="Prototipos/Slogan UAB.jpeg" alt="Slogan del prototipo de la UAB" width="400">
+<img src="Prototipos/Slogan UAB.jpeg" alt="Slogan del prototipo de la UAB" width="300">
 &nbsp;&nbsp;
 <br>
 <em>Material de explicación y difusión del prototipo de la UAB.</em>
