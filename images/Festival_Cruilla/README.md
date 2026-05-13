@@ -38,7 +38,7 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante el Fes
 <br>
 <em>Elementos vinculados a la sostenibilidad promovidos por el festival.</em>
 </div>
-
+<br><br><br><br><br>
 
 
 # Prototipos
