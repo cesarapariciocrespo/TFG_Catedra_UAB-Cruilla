@@ -62,13 +62,13 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante el Fes
 <em>Ejemplos de resultados generados por el prototipo de la UAB, combinando avatar personalizado y mascota asociada a las preferencias del participante.</em>
 <br><br><br><br>
 
-<img src="Prototipos/Preferencias 1.jpeg" alt="Pantalla de preferencias 1 del prototipo de la UAB" height="300">
+<img src="Prototipos/Preferencias 1.jpeg" alt="Pantalla de preferencias 1 del prototipo de la UAB" height="270">
 &nbsp;&nbsp;
-<img src="Prototipos/Preferencias 2.jpeg" alt="Pantalla de preferencias 2 del prototipo de la UAB" height="300">
+<img src="Prototipos/Preferencias 2.jpeg" alt="Pantalla de preferencias 2 del prototipo de la UAB" height="270">
 &nbsp;&nbsp;
-<img src="Prototipos/Preferencias 3.jpeg" alt="Pantalla de preferencias 3 del prototipo de la UAB" height="300">
+<img src="Prototipos/Preferencias 3.jpeg" alt="Pantalla de preferencias 3 del prototipo de la UAB" height="270">
 &nbsp;&nbsp;
-<img src="Prototipos/Preferencias 4.jpeg" alt="Pantalla de preferencias 4 del prototipo de la UAB" height="300">
+<img src="Prototipos/Preferencias 4.jpeg" alt="Pantalla de preferencias 4 del prototipo de la UAB" height="270">
 <br>
 <em>Pantallas de selección de preferencias musicales y personales utilizadas en el prototipo de la UAB.</em>
 <br><br><br><br>
