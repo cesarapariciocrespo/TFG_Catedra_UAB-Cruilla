@@ -63,11 +63,11 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante el Fes
 <em>Pantallas de selección de preferencias musicales y personales utilizadas en el prototipo de la UAB.</em>
 <br><br><br><br>
 
-<img src="Prototipos/Funcionamiento_UAB.jpeg" alt="Funcionamiento del prototipo de la UAB" width="300">
+<img src="Prototipos/Funcionamiento_UAB.jpeg" alt="Funcionamiento del prototipo de la UAB" width="270">
 &nbsp;&nbsp;
-<img src="Prototipos/Propaganda UAB.jpeg" alt="Propaganda del prototipo de la UAB" width="300">
+<img src="Prototipos/Propaganda UAB.jpeg" alt="Propaganda del prototipo de la UAB" width="270">
 &nbsp;&nbsp;
-<img src="Prototipos/Slogan UAB.jpeg" alt="Slogan del prototipo de la UAB" width="300">
+<img src="Prototipos/Slogan UAB.jpeg" alt="Slogan del prototipo de la UAB" width="270">
 &nbsp;&nbsp;
 <br>
 <em>Material de explicación y difusión del prototipo de la UAB.</em>
