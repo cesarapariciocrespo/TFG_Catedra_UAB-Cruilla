@@ -11,7 +11,7 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante la Set
 <br>
 <em>Concierto de Partituras Históricas e IA.</em>
 
-<br><br>
+<br><br><br>
 
 <img src="Actuaciones/Candela.jpeg" alt="Performance Candela" width="45%">
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -21,7 +21,7 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante la Set
 <br>
 <em>Performance Candela, basada en la interacción entre cuerpo, sonido, iluminación e inteligencia artificial.</em>
 
-<br><br>
+<br><br><br>
 
 <img src="Actuaciones/GhostDrums.jpg" alt="Performance Ghost Drums" width="45%">
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,7 +31,7 @@ Esta carpeta contiene fotografías del trabajo de campo realizado durante la Set
 <br>
 <em>Performances de Ghost Drums y ImprovIA en el marco del proyecto Harmon.IA, y performaforum posterior.</em>
 
-<br><br>
+<br><br><br>
 
 <img src="Actuaciones/BeyondCollapse.jpeg" alt="Performance Beyond Collapse" width="500">
 <br>
