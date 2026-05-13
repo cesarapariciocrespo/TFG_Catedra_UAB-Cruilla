@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/portada-cruilla.jpg" alt="Portada del proyecto" width="800">
+</p>
+
 # Cátedra UAB-Cruïlla: espacios de experimentación e innovación en eventos públicos
 
 Este repositorio reúne materiales complementarios del Trabajo de Fin de Grado **“Espacios de experimentación e innovación en eventos públicos: el caso de la Cátedra UAB-Cruïlla”**, realizado en el Grado en Gestión de Ciudades Inteligentes y Sostenibles de la Escola d’Enginyeria de la Universitat Autònoma de Barcelona.
