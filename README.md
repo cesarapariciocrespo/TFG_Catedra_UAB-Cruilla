@@ -4,7 +4,7 @@
 
 # Cátedra UAB-Cruïlla: espacios de experimentación e innovación en eventos públicos
 
-Este repositorio reúne materiales complementarios del Trabajo de Fin de Grado **“Espacios de experimentación e innovación en eventos públicos: el caso de la Cátedra UAB-Cruïlla”**, realizado en el Grado en Gestión de Ciudades Inteligentes y Sostenibles de la Escola d’Enginyeria de la Universitat Autònoma de Barcelona.
+Este repositorio reúne materiales complementarios del Trabajo de Fin de Grado **“Espacios de experimentación e innovación en eventos públicos: el caso de la Cátedra UAB-Cruïlla”**, realizado para el Grado en Gestión de Ciudades Inteligentes y Sostenibles de la Escola d’Enginyeria de la Universitat Autònoma de Barcelona.
 
 El trabajo analiza las acciones impulsadas en el marco de la **Cátedra UAB-Cruïlla**, una colaboración entre la Universitat Autònoma de Barcelona y el Festival Cruïlla orientada a explorar el papel de la inteligencia artificial en la creación artística, la innovación cultural y la transferencia de conocimiento. El estudio presta especial atención a dos contextos de experimentación: la **Setmana de la Innovació de la UAB**, entendida como un entorno de Living Lab universitario, y el **Festival Cruïlla**, interpretado como una ciudad efímera donde los prototipos tecnológicos entran en contacto con públicos más amplios y heterogeneos.
 
