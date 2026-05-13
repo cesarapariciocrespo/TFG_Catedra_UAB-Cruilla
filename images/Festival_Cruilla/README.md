@@ -3,37 +3,53 @@
 Esta carpeta contiene fotografías del trabajo de campo realizado durante el Festival Cruïlla 2025, tanto del propio festival como de los resultados de cada prototipo.
 
 #Festival Cruïlla
-<figure align="center">
-  <img src="Festival/Buzz_dia.jpeg" alt="Buzz de la Cátedra UAB-Cruïlla durante el día" width="600">
-  <figcaption><em>Buzz de la Cátedra UAB-Cruïlla durante el día.</em></figcaption>
-</figure>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="/Festival/Buzz_dia.jpeg" alt="Buzz de la Cátedra UAB-Cruïlla durante el día" width="400"><br>
+      <em>Buzz de la Cátedra UAB-Cruïlla durante el día.</em>
+      <br><br>
+    </td>
+    <td align="center" width="50%">
+      <img src="/Festival/Buzz_noche.jpeg" alt="Buzz de la Cátedra UAB-Cruïlla durante la noche" width="400"><br>
+      <em>Buzz de la Cátedra UAB-Cruïlla durante la noche.</em>
+      <br><br>
+    </td>
+  </tr>
 
-<figure align="center">
-  <img src="Festival/Buzz_noche.jpeg" alt="Buzz de la Cátedra UAB-Cruïlla durante la noche" width="600">
-  <figcaption><em>Buzz de la Cátedra UAB-Cruïlla durante la noche.</em></figcaption>
-</figure>
+  <tr>
+    <td align="center" width="50%">
+      <img src="/Festival/Concierto.jpeg" alt="Concierto en el Festival Cruïlla" width="400"><br>
+      <em>Ejemplo de escenario del festival.</em>
+      <br><br>
+    </td>
+    <td align="center" width="50%">
+      <img src="/Festival/Grafiti.jpeg" alt="Intervención gráfica en el Festival Cruïlla" width="400"><br>
+      <em>Ejemplo de la estética de grafiti del festival.</em>
+      <br><br>
+    </td>
+  </tr>
 
-<figure align="center">
-  <img src="Festival/Concierto.jpeg" alt="Concierto en el Festival Cruïlla" width="600">
-  <figcaption><em>Ejemplo de escenario del festival.</em></figcaption>
-</figure>
+  <tr>
+    <td align="center" width="50%">
+      <img src="/Festival/Muro_grafitis.jpeg" alt="Muro de grafitis del Festival Cruïlla" width="400"><br>
+      <em>Muro de grafitis en el recinto del Festival Cruïlla.</em>
+      <br><br>
+    </td>
+    <td align="center" width="50%">
+      <img src="/Festival/Restauracion_proximidad.jpeg" alt="Zona de restauración de proximidad en el Festival Cruïlla" width="400"><br>
+      <em>Ejemplo de restauración de proximidad promovida por el Festival Cruïlla.</em>
+      <br><br>
+    </td>
+  </tr>
 
-<figure align="center">
-  <img src="Festival/Grafiti.jpeg" alt="Grafiti del Festival Cruïlla" width="600">
-  <figcaption><em>Estética de grafitis observada en el Festival Cruïlla.</em></figcaption>
-</figure>
-
-<figure align="center">
-  <img src="Festival/Muro_grafitis.jpeg" alt="Muro de grafitis del Festival Cruïlla" width="600">
-  <figcaption><em>Muro de grafitis en el recinto del festival.</em></figcaption>
-</figure>
-
-<figure align="center">
-  <img src="Festival/Restauracion_proximidad.jpeg" alt="Zona de restauración de proximidad en el Festival Cruïlla" width="600">
-  <figcaption><em>Ejemplo de comercio de proximidad que apolla el festival.</em></figcaption>
-</figure>
-
-<figure align="center">
-  <img src="images/Festival_Cruilla/Festival/Sostenibilidad_festival.jpeg" alt="Elementos vinculados a la sostenibilidad del Festival Cruïlla" width="600">
-  <figcaption><em>Elementos vinculados a la sostenibilidad que apolla el festival.</em></figcaption>
-</figure>
+  <tr>
+    <td align="center" width="50%">
+      <img src="/Festival/Sostenibilidad_festival.jpeg" alt="Elementos vinculados a la sostenibilidad del Festival Cruïlla" width="400"><br>
+      <em>Elementos vinculados a la sostenibilidad promovidos por el festival.</em>
+      <br><br>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
+</table>
