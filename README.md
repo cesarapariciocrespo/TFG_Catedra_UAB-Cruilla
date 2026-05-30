@@ -14,9 +14,9 @@ El objetivo de este repositorio es facilitar el acceso a materiales adicionales 
 
 ## Contenido
 
-- `paper/`: versión final y documentos parciales extendidos.
+- `paper/`: versión final del trabajo.
 - `transcripts/`: documentos adicionales, incluyendo entrevistas a los principales stakeholders y performaforums.
-- `data/`: explotación derivada de la encuesta durante las actividades de campo en el Festival Cruïlla.
+- `data/`: analisis paralelos al trabajo principal.
 - `images/`: documentación visual de los espacios, prototipos y actividades analizadas.
 
 ## Resumen del trabajo
