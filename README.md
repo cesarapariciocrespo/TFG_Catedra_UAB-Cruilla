@@ -8,6 +8,8 @@ Este repositorio reúne materiales complementarios del Trabajo de Fin de Grado *
 
 El trabajo analiza las acciones impulsadas en el marco de la **Cátedra UAB-Cruïlla**, una colaboración entre la Universitat Autònoma de Barcelona y el Festival Cruïlla orientada a explorar el papel de la inteligencia artificial en la creación artística, la innovación cultural y la transferencia de conocimiento. El estudio presta especial atención a dos contextos de experimentación: la **Setmana de la Innovació de la UAB**, entendida como un entorno de Living Lab universitario, y el **Festival Cruïlla**, interpretado como una ciudad efímera donde los prototipos tecnológicos entran en contacto con públicos más amplios y heterogeneos.
 
+Para más información sobre esta Cátedra, se puede consultar su página web en este [enlace] (https://catedrauabcruilla.cvc.uab.es/conference-artificial-intelligence-arts-and-innovation/)
+
 ## Objetivo del repositorio
 
 El objetivo de este repositorio es facilitar el acceso a materiales adicionales que complementan el trabajo académico, incluyendo anexos, entrevistas, documentación visual, transcripciones, cuestionarios y otros recursos relacionados con el proceso de investigación, necesarios para la realización de este TFG.
